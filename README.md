@@ -54,18 +54,3 @@ Nuevos trabajadores adoptaron más rápido los procesos gracias al material estr
 
 Con esto, la wiki se volvió parte natural del funcionamiento de la empresa.
 
-Conclusión del Modelo SECI en el Proyecto
-
-El uso del Modelo SECI permitió que la wiki no solo recopile información, sino que se convierta en un sistema vivo de creación y transferencia de conocimiento, asegurando:
-
-Continuidad operativa
-
-Estandarización
-
-Aprendizaje corporativo
-
-Reducción de errores
-
-Conservación del conocimiento organizacional
-
-Este modelo respalda teóricamente toda la implementación de la wiki e incrementa la calidad del informe final.
