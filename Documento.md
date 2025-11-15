@@ -21,7 +21,7 @@ Construida con *Docsify*, optimizada para uso institucional y totalmente persona
 ---
 
 ## 📂 Estructura General del Proyecto
-[9:08 a. m., 15/11/2025] Johan Uni: ---
+
 
 ## 🎯 Objetivos del Proyecto
 
