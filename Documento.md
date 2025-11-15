@@ -1,4 +1,4 @@
-[9:07 a. m., 15/11/2025] Johan Uni: # 🧠📚 Wiki de Gestión del Conocimiento  
+# 🧠📚 Wiki de Gestión del Conocimiento  
 ### Implementación completa con Docsify | Documentación Corporativa
 
 ![Banner](https://img.shields.io/badge/Docsify-Wiki%20Project-2ea44f?style=for-the-badge)
@@ -23,18 +23,31 @@ Construida con *Docsify*, optimizada para uso institucional y totalmente persona
 ## 📂 Estructura General del Proyecto
 📁 docs/
 ├── index.html
+
 ├── README.md
+
 ├── styles.css
+
 └── secciones/
+
 ├── objetivo.md
+
 ├── arquitectura.md
+
 ├── tecnologias.md
+
 ├── base_datos.md
+
 ├── seguridad.md
+
 ├── automatizacion.md
+
 ├── metricas.md
+
 ├── conclusiones.md
+
 └── futuras_mejoras.md
+
 
 
 ## 🎯 Objetivos del Proyecto
