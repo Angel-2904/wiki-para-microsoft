@@ -1,0 +1,20 @@
+{
+  "name": "wiki-gestion-conocimiento",
+  "version": "1.0.0",
+  "description": "Wiki - Gestión del Conocimiento en Microsoft",
+  "main": "index.html",
+  "scripts": {
+    "start": "docsify serve docs"
+  },
+  "keywords": [
+    "wiki",
+    "docsify",
+    "microsoft",
+    "gestion-del-conocimiento",
+    "documentacion"
+  ],
+  "author": "Ángel",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+ }
