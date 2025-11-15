@@ -21,6 +21,20 @@ Construida con *Docsify*, optimizada para uso institucional y totalmente persona
 ---
 
 ## 📂 Estructura General del Proyecto
+📁 docs/
+├── index.html
+├── README.md
+├── styles.css
+└── secciones/
+├── objetivo.md
+├── arquitectura.md
+├── tecnologias.md
+├── base_datos.md
+├── seguridad.md
+├── automatizacion.md
+├── metricas.md
+├── conclusiones.md
+└── futuras_mejoras.md
 
 
 ## 🎯 Objetivos del Proyecto
